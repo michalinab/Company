@@ -25,6 +25,6 @@ public class Company {
     }
 
     public String toString() {
-        return "Company: [ceo: "+ ceo + "cfo: " + cfo + "cleaner: " + cleaner + "]";
+        return "Company:" + "\n" + "[ceo: "+ ceo + "cfo: " + cfo + "cleaner: " + cleaner + "]";
     }
 }
